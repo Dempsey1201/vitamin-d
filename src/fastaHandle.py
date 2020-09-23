@@ -4,6 +4,7 @@ import pandas as pd
 file_path = "../data/vitamin-d.fasta"
 file_path_out = "../data/vitamin-d_afterHandle.fasta"
 
+
 def read_fasta(filename):
     file = open(filename, 'r')
     data = {}
