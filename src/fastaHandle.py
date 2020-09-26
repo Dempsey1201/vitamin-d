@@ -2,7 +2,7 @@ import seaborn as sns
 import pandas as pd
 
 file_path = "../data/vitamin-d.fasta"
-file_path_out = "../data/vitamin-d_afterHandle.fasta"
+file_path_out = "../data/vitamin-d_afterHandle.txt"
 
 
 def read_fasta(filename):
