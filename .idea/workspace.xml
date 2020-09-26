@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c97550cf-6402-4540-9215-ea9e2d4b7d78" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/vitamin-d_afterHandle.fasta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/vitamin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/vitamin-d_XML_afterHandle.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/XMLHandle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/XMLHandle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fastaHandle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/fastaHandle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,7 @@
       <updated>1600847461127</updated>
       <workItem from="1600847478283" duration="5852000" />
       <workItem from="1600860490874" duration="6167000" />
-      <workItem from="1601107808279" duration="6147000" />
+      <workItem from="1601107808279" duration="10056000" />
     </task>
     <servers />
   </component>
@@ -117,38 +118,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601114946249" />
-    <state width="1493" height="317" key="GridCell.Tab.0.bottom" timestamp="1601115304200">
+    <state width="1493" height="317" key="GridCell.Tab.0.bottom" timestamp="1601127613989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="317" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601115304200" />
-    <state width="1493" height="317" key="GridCell.Tab.0.center" timestamp="1601115304200">
+    <state width="1493" height="317" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601127613989" />
+    <state width="1493" height="317" key="GridCell.Tab.0.center" timestamp="1601127613989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="317" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601115304200" />
-    <state width="1493" height="317" key="GridCell.Tab.0.left" timestamp="1601115304200">
+    <state width="1493" height="317" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601127613989" />
+    <state width="1493" height="317" key="GridCell.Tab.0.left" timestamp="1601127613989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="317" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601115304200" />
-    <state width="1493" height="317" key="GridCell.Tab.0.right" timestamp="1601115304200">
+    <state width="1493" height="317" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601127613989" />
+    <state width="1493" height="317" key="GridCell.Tab.0.right" timestamp="1601127613989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="317" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601115304200" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1600851963164">
+    <state width="1493" height="317" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601127613989" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601126349656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600851963164" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1600851963164">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601126349656" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1601126349656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600851963164" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1600851963164">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601126349656" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1601126349656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600851963164" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1600851963164">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601126349656" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1601126349656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600851963164" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601126349656" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1600860511428">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -156,6 +157,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/vitamin_d$fastaHandle.coverage" NAME="fastaHandle Coverage Results" MODIFIED="1601115223809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/vitamin_d$XMLHandle.coverage" NAME="XMLHandle Coverage Results" MODIFIED="1601115304193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/vitamin_d$XMLHandle.coverage" NAME="XMLHandle Coverage Results" MODIFIED="1601127613982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
